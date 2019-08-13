@@ -1,2 +1,6 @@
-# sfcu-do
-This is a repo of the k8s for SFCU
+# sfcu-digital ocean deployment 
+This is a repo is a collection of yaml files to deploy the SFCU stack using digital ocean for everything. I'm hoping this helps anyone trying to understand what we have done. 
+
+#Current setup
+
+![alt text]
