@@ -3,4 +3,4 @@ This is a repo is a collection of yaml files to deploy the SFCU stack using digi
 
 #Current setup
 
-![alt text]
+![alt text](Docs/sfcu-current-setup.png "Current setup")
